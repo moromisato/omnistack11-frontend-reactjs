@@ -11,7 +11,7 @@ import api from '../../services/api';
 
 export default function Login(){
 
-    const [id, setId] = useState(0)
+    const [id, setId] = useState('')
 
     const history = useHistory();
 
