@@ -10,10 +10,9 @@ A semana omnistack é um curso gratuito de uma semana que envolve a criação de
 Cada semana omnistack possui um projeto diferente, na 11ª versão da semana o projeto proposto é um gerenciador de incidentes para ongs, onde as ongs podem se cadastrar e adicionar seus incidentes que precisam de algum tipo de levantamento de verbas,
 assim, os usuários do sistema podem visualizar esses incidentes e ajudar as ongs doando algum valor.
 
-Este repositório contém o <i>frontend</i> da aplicação, feito em ReactJS e utiliza as seguintes bibliotecas: 
+Este repositório contém o <i>frontend</i> da aplicação, feito em ReactJS e utiliza as seguintes bibliotecas:
 
 * [react-router-dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom) para realizar a navegação
-
 * <a href="https://github.com/axios/axios"><i>Axios</i></a> para realizar requisições http
 
 # Rodando o projeto
